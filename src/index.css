@@ -1,4 +1,7 @@
+@tailwind utilities;
 
-@import "tailwindcss";
-
-
+.container{
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(124, 194, 255);
+}

@@ -1,10 +1,14 @@
 import React from 'react'
 import Header from './components/Header'
+import Counter from './components/Counter'
+import Controlled_Component from './components/Controlled_Component'
 
 const App = () => {
   return (
     <>
- <Header/>
+ {/* <Header/> */}
+ {/* <Counter/> */}
+ <Controlled_Component/>
     </>
   )
 }
